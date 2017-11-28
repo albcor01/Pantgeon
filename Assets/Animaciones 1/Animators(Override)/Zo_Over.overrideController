@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Zo_Over
+  m_Controller: {fileID: 9100000, guid: 4013a3b534b0d0543846922d12df6458, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 1c7039c3ff40df64882a2c4d139d6d48, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1ed844b5fdeffef4194677c88af51d31, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1bde97b6d03d8ae46b2acd50bcb68b75, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6927cb307ad67fe43a56a4025af020c0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: cfcb0759a1786d541b169b7788091576, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b276d243847cb2d47bb35f54b5353c0d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4aa32452e86060246853afb37154ed5f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5b25f63955819524bb4f4c0727de1393, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e462f9965838ee142adba4b0aba6e56f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1ed844b5fdeffef4194677c88af51d31, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 72dfa32e2bdfc8c49a92170f5e24f2e1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6927cb307ad67fe43a56a4025af020c0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7e4d7b27c3f008d4ca06a7f229ffa7b8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1fd83dfdc7f21b147956acc776bca0bf, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1d7a272af43518246b5202a22810ab3d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b276d243847cb2d47bb35f54b5353c0d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 994bc08246c42c54ea2272abb7830b24, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5b25f63955819524bb4f4c0727de1393, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 51feb5a2d724a8245a50732b354d53f3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3eb9b1508b5a78741a9a7dd31d512590, type: 2}
